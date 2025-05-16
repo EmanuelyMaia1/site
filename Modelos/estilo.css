@@ -24,4 +24,15 @@ button{
     padding-right: 20px; /* margem interna direita */
 }
 
+h1{
+	color: #3275a8;
+	font-size: 50px;
+	font-family: 'Elephant';
+}
+p {
+	color: #87CEFA;
+	font-weight: bold;
+	font-size: 50px;
+	font-family: 'Cascadia Mono SemiLight';
+}
 
